@@ -1,0 +1,22 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:m5stack-core-esp32:DebugLevel=none,FlashFreq=80,FlashMode=qio,PartitionScheme=default,UploadSpeed=921600",
+    "name": "M5Stack-Core-ESP32",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_DEVICE_KEY",
+      "value": ""
+    },
+    {
+      "name": "SECRET_OPTIONAL_PASS",
+      "value": ""
+    },
+    {
+      "name": "SECRET_SSID",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}
