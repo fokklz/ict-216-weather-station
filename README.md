@@ -4,7 +4,7 @@
 # Setup
  To be able to use the project on your own, you will need to create a [new Thing](https://create.arduino.cc/iot/things/new]) at the Arduino IoT Cloud.
 
- Configure the following Variables inside the Arduino IOT Cloud:
+ Configure the following Variables inside the Arduino IoT Cloud:
  | Name      | Type  |
  | --------- | ----- |
  | enableLED | bool  |
