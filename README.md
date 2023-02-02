@@ -18,7 +18,7 @@
  u should then be able to Upload the Sketch and run it on ur Device.
 
 # Modules
- For this to work propperly the should be connected two Modules to ur M5Stack. One beeing a ENV Module to detect hum/tmp and pressure. The secound Module is the RGB module which is used to Show the current Temperature in its Color representation.
+ For this to work propperly there should be connected two Modules to ur M5Stack. One beeing a ENV Module to detect hum/tmp and pressure. The secound Module is the RGB module which is used to Show the current Temperature in its Color representation.
 
 Ports:
 
